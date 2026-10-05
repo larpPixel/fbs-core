@@ -1,0 +1,56 @@
+[
+  {
+    "id": 47,
+    "repo_id": 7,
+    "type": 1,
+    "config": null,
+    "created_unix": 1779992387,
+    "anonymous_access_mode": 0,
+    "everyone_access_mode": 0
+  },
+  {
+    "id": 48,
+    "repo_id": 7,
+    "type": 2,
+    "config": "{\"EnableTimetracker\":true,\"AllowOnlyContributorsToTrackTime\":true,\"EnableDependencies\":true}",
+    "created_unix": 1779992387,
+    "anonymous_access_mode": 0,
+    "everyone_access_mode": 0
+  },
+  {
+    "id": 49,
+    "repo_id": 7,
+    "type": 4,
+    "config": null,
+    "created_unix": 1779992387,
+    "anonymous_access_mode": 0,
+    "everyone_access_mode": 0
+  },
+  {
+    "id": 50,
+    "repo_id": 7,
+    "type": 5,
+    "config": null,
+    "created_unix": 1779992387,
+    "anonymous_access_mode": 0,
+    "everyone_access_mode": 0
+  },
+  {
+    "id": 51,
+    "repo_id": 7,
+    "type": 8,
+    "config": "{\"ProjectsMode\":\"all\"}",
+    "created_unix": 1779992387,
+    "anonymous_access_mode": 0,
+    "everyone_access_mode": 0
+  },
+  {
+    "id": 52,
+    "repo_id": 7,
+    "type": 9,
+    "config": null,
+    "created_unix": 1779992387,
+    "anonymous_access_mode": 0,
+    "everyone_access_mode": 0
+  }
+]
